@@ -1,6 +1,6 @@
 public class GitGood{
 	/*
-	 *Pick windows or apple as a first platofrm please.
+	 *Pick windows or apple as a first platform please.
 	 *
 	 */
 	public static void main (String[] args) {
